@@ -1,0 +1,22 @@
+.mern{
+  display: flex;
+  font-weight:bold;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+button{
+  cursor:pointer ;
+  padding: 5px;
+}
+
+.data{
+   display: flex;
+   flex-direction: row;
+   gap: 3rem;
+   border: 1px solid black;   
+   padding: 1rem;
+   margin: 1rem 0;
+}
